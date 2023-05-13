@@ -64,7 +64,7 @@ const PostWidget = ({
           height="auto"
           alt="post"
           style={{ borderRadius: "0.75rem", marginTop: "0.75rem" }}
-          src={`https://sociopedia-pr4thams.herokuapp.com/${picturePath}`}
+          src={`https://sociopedia-pr4thams.herokuapp.com/assets/${picturePath}`}
         />
       )}
       <FlexBetween mt="0.25rem">
