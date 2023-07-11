@@ -1,13 +1,13 @@
-# Social Media App - Sociopedia
+# Sociopedia - Social Media App 
 
-### **Hosted Site** &rarr; [Sociopedia](http://sociopedia-k1i7074yh-pr4thams.vercel.app)
+Sociopedia is a full-stack social media platform clone. 
 
-It is a full stack web application made to clone a working of a social media platform. It has User Authentication, Friend Feature, Posting and a way to change the theme of the the whole app.
+- **User Authentication**: Ensures secure user access.
+- **Friend Feature**: Allows connecting with others.
+- **Posting**: Enables sharing updates.
+- **Theme Change**: Provides customization of app appearance.
 
 ## Technologies Used
 
-| Client | Server |
-| ----------- | ----------- |
-| React.js | Node.js |
-| Redux | Express.js |
-| MaterialUI | MongoDB |
+- **Client**: React.js, Redux, MaterialUI
+- **Server**: Node.js, Express.js, MongoDB
